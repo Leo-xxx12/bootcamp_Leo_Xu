@@ -39,4 +39,4 @@ bias.
 
 ## Repo Plan (for this homework)
 `/data`, `/src`, `/notebooks`, `/docs`, `/results` under 
-`project
+project
