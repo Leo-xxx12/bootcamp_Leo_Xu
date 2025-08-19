@@ -1,0 +1,51 @@
+Ranks,Name,Industry,Revenue,Profit,Employees,Headquarters[note 1],State-owned,Ref.
+,,,,,,,,
+1.0,Walmart,Retail,"$680,985","$19,436","2,100,000",United States,,[1]
+2.0,Amazon,Retailinformation technology,"$637,959","$59,248","1,556,000",,[4],
+3.0,State Grid Corporation of China,Electricity,"$545,948","$9,204","1,361,423",China,,[5]
+4.0,Saudi Aramco,Oil and gas,"$480,446","$106,246","73,311",Saudi Arabia,,[6]
+5.0,China Petrochemical Corporation,"$429,700","$9,393","513,434",China,,[7],
+6.0,China National Petroleum Corporation,"$476,000","$25,250","1,026,301",,[8],,
+7.0,UnitedHealth Group,Healthcare,"$400,278","$14,405","400,000",United States,,[9]
+8.0,Apple,Information technology,"$391,035","$93,736","164,000",,[10],
+9.0,Berkshire Hathaway,Financials,"$371,433","$88,995","392,400",,[11],
+10.0,CVS Health,Healthcare,"$357,776","$8,344","259,500",,[12],
+11.0,Alphabet,Information technology,"$350,018","$100,118","183,323",,[13],
+12.0,Volkswagen Group,Automotive,"$348,408","$17,945","684,025",Germany,,[14]
+13.0,ExxonMobil,Oil and gas,"$344,582","$36,010","61,500",United States,,[15]
+14.0,Vitol,Commodities,"$331,000","$13,000","1,560",Switzerland,,[16][17]
+15.0,Shell,Oil and gas,"$323,183","$19,359","103,000",United Kingdom,,[18]
+16.0,China State Construction Engineering,Construction,"$320,431","$4,272","382,894",China,,[19]
+17.0,Toyota,Automotive,"$312,018","$34,214","380,793",Japan,,[20]
+18.0,McKesson,Healthcare,"$308,951","$3,002","48,000",United States,,[21]
+19.0,Cencora,Healthcare,"$262,173","$1,745","44,000",,[22],
+20.0,Microsoft,Information technology,"$245,122","$88,136","228,000",,[23],
+21.0,Trafigura,Commodities,"$244,280","$7,393","12,479",Singapore,,[24]
+22.0,Costco,Retail,"$242,290","$6,292","316,000",United States,,[25]
+23.0,JPMorgan Chase,Financials,"$239,425","$49,552","309,926",,[26],
+24.0,Industrial and Commercial Bank of China,"$222,484","$51,417","419,252",China,,[27],
+25.0,TotalEnergies,Oil and gas,"$218,945","$21,384","102,579",France,,[28]
+26.0,Glencore,Commodities,"$217,829","$4,280","83,426",Switzerland,,[29]
+27.0,BP,Oil and gas,"$213,032","$15,239","79,400",United Kingdom,,[30]
+28.0,Cardinal Health,Healthcare,"$205,012",$261,"47,520",United States,,[31]
+29.0,Stellantis,Automotive,"$204,908","$20,103","258,275",Netherlands,,[32]
+30.0,Chevron,Oil and gas,"$200,949","$21,369","45,600",United States,,[33]
+31.0,China Construction Bank,Financials,"$199,826","$46,990","376,871",China,,[34]
+32.0,Samsung Electronics,Electronics,"$198,257","$11,082","267,860",South Korea,,[35]
+33.0,Foxconn,"$197,876","$4,563","621,393",Taiwan,,[36],
+34.0,Cigna,Healthcare,"$195,265","$5,164","71,413",United States,,[37]
+35.0,Agricultural Bank of China,Financials,"$192,398","$38,049","451,003",China,,[38]
+36.0,Schwarz Gruppe,Retail,"$180,576","$16,988","595,000",Germany,,[39]
+37.0,China Railway Engineering Corporation,Construction,"$178,563","$2,152","314,149",China,,[40]
+38.0,Cargill,Conglomerate,"$177,000","$17,641","160,000",United States,,[41]
+39.0,Ford Motor Company,Automotive,"$176,191","$4,347","177,000",,[42],
+40.0,Bank of China,Financials,"$172,328","$32,758","306,931",China,,[43]
+41.0,Bank of America,"$171,912","$26,515","212,985",United States,,[44],
+42.0,General Motors,Automotive,"$171,842","$10,127","163,000",,[45],
+43.0,Elevance Health,Healthcare,"$171,340","$5,987","104,900",,[46],
+44.0,BMW Group,Automotive,"$168,103","$12,205","154,950",Germany,,[47]
+45.0,Mercedes-Benz Group,Automotive,"$165,638","$15,417","166,056",Germany,,[48]
+46.0,China Railway Construction Corporation,Construction,"$160,847","$1,701","336,433",China,,[49]
+47.0,Baowu,Steel,"$157,216","$2,494","258,697",,[50],
+48.0,Citigroup,Financials,"$156,820","$9,228","237,925",United States,,[51]
+49.0,Enel,Energy,"$147,100","$3,400","61,060",Italy,,[52]
